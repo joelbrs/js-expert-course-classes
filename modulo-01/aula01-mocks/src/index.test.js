@@ -1,5 +1,5 @@
-const { error } = require('./src/constants');
-const File = require('./src/file')
+const { error } = require('./constants');
+const File = require('./file')
 const assert = require('assert')
 
 // IFEE
